@@ -2,15 +2,13 @@
 
 Implementation of collection of simple animations from dribbble.
 
-## Getting Started
+Twitter -  @BlossomTechie
 
-This project is a starting point for a Flutter application.
+Website - https://www.techieblossom.com
 
-A few resources to get you started if this is your first Flutter project:
+## Animated Button
+The first video in the series of simple animations in Flutter.
+Simple Animated Button Video to showcase how simply and easily animation can be done in Flutter. This animation can be used anywhere in the app. Created a custom Animated Button which can be used as a custom widget.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Inspired by dribbble design - https://dribbble.com/shots/6363045-Daily-UI-Challenge-054-Confirmation
+Youtube - https://youtu.be/l0VccGP-ygA
